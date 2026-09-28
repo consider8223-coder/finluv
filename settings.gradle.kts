@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Aura Dating"
+rootProject.name = "FinLuv"
 
 include(":app")

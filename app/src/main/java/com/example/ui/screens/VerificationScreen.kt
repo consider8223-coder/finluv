@@ -137,7 +137,7 @@ fun VerificationScreen(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
-                        text = "Aura Secure Verification",
+                        text = "FinLuv Secure Verification",
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
                         color = Color.White
@@ -489,7 +489,7 @@ private fun VerificationSuccessStep(
             Spacer(modifier = Modifier.height(24.dp))
 
             Text(
-                text = "You're Aura Verified!",
+                text = "You're FinLuv Verified!",
                 fontSize = 28.sp,
                 fontWeight = FontWeight.ExtraBold,
                 color = Color.White

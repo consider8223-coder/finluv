@@ -141,7 +141,7 @@ fun DiscoveryScreen(
                     }
                     Spacer(modifier = Modifier.width(8.dp))
                     Text(
-                        text = "Aura",
+                        text = "FinLuv",
                         fontSize = 24.sp,
                         fontWeight = FontWeight.ExtraBold,
                         color = Color.White

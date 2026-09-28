@@ -1,6 +1,6 @@
 {
-  "name": "Aura Dating",
-  "description": "Modern dating chat app featuring real-time messaging, location-based discovery, and secure profile verification.",
+  "name": "FinLuv",
+  "description": "FinLuv dating chat app featuring real-time messaging, location-based discovery, and secure profile verification.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
